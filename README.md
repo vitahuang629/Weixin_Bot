@@ -1,5 +1,5 @@
 # Attendance Notification Bot
-## This project integrates 飛騰 attendance information with the WeChat Work (企業微信) API to build a bot that automatically sends notifications about late arrivals. The bot is designed to streamline attendance management by instantly informing employees or managers about tardiness.
+This project integrates 飛騰 attendance information with the WeChat Work (企業微信) API to build a bot that automatically sends notifications about late arrivals. The bot is designed to streamline attendance management by instantly informing employees or managers about tardiness.
 
 ## Features:
 Automated Notifications: Sends automated messages to employees or supervisors when someone is marked as late in the HR system.
